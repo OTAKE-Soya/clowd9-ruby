@@ -1,0 +1,2 @@
+name = "otake"
+puts name
